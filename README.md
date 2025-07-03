@@ -9,5 +9,4 @@ I created a responsive personal portfolio using HTML and CSS.
 - Easy to customize
 
 ## Deployed Link
-👉 [Live Site](https://your-netlify-link.netlify.app)
-
+👉 [Live Site](https://github.com/Kunalpatil79/SCT_WD_1/blob/main/README.md#deployed-link)
