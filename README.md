@@ -1,27 +1,12 @@
 # SCT_WD_1 - Personal Portfolio Website
 
-This is my first task for the Web Development Internship at **SkillCraft Technology**.
+This is my first Web Development task for SkillCraft Technology internship.  
+I created a responsive personal portfolio using HTML and CSS.
 
-## 🧾 Project Overview
-I created a personal portfolio website using **HTML** and **CSS**. It showcases my:
-- Introduction
-- About section
-- Sample projects
-- Contact information
+## Features
+- Clean, simple design
+- Sections: About Me, Projects, Contact
+- Easy to customize
 
-## ⚙️ Tech Stack Used
-- HTML
-- CSS
-- GitHub for version control
-- Netlify for deployment
-
-## 🚀 Live Website
-🔗 [Click here to view my Portfolio](https://your-portfolio-link.netlify.app)
-
-## 📁 GitHub Repository
-🔗 [GitHub Repo](https://github.com/yourusername/SCT_WD_1)
-
-## 📌 What I Learned
-- Structuring HTML pages
-- Basic CSS styling
-- Hosting static websites using Netlify
+## Deployed Link
+👉 [Live Site](https://your-netlify-link.netlify.app)
